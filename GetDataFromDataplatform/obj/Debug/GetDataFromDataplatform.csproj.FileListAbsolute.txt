@@ -1,0 +1,10 @@
+D:\StudyProject\GetDataFromDataplatform\GetDataFromDataplatform\bin\Debug\GetDataFromDataplatform.exe.config
+D:\StudyProject\GetDataFromDataplatform\GetDataFromDataplatform\bin\Debug\GetDataFromDataplatform.exe
+D:\StudyProject\GetDataFromDataplatform\GetDataFromDataplatform\bin\Debug\GetDataFromDataplatform.pdb
+D:\StudyProject\GetDataFromDataplatform\GetDataFromDataplatform\bin\Debug\Newtonsoft.Json.dll
+D:\StudyProject\GetDataFromDataplatform\GetDataFromDataplatform\bin\Debug\Newtonsoft.Json.xml
+D:\StudyProject\GetDataFromDataplatform\GetDataFromDataplatform\obj\Debug\GetDataFromDataplatform.csprojAssemblyReference.cache
+D:\StudyProject\GetDataFromDataplatform\GetDataFromDataplatform\obj\Debug\GetDataFromDataplatform.csproj.CoreCompileInputs.cache
+D:\StudyProject\GetDataFromDataplatform\GetDataFromDataplatform\obj\Debug\GetDataFromDataplatform.csproj.CopyComplete
+D:\StudyProject\GetDataFromDataplatform\GetDataFromDataplatform\obj\Debug\GetDataFromDataplatform.exe
+D:\StudyProject\GetDataFromDataplatform\GetDataFromDataplatform\obj\Debug\GetDataFromDataplatform.pdb
